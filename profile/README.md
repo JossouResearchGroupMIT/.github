@@ -63,6 +63,7 @@ To ensure smooth collaboration, we follow these best practices:
 ### 6. 🔐 Sensitive Data
 - **Do not** upload proprietary or sensitive information (e.g., credentials, internal datasets).
 - Use `.gitignore` to exclude such files.
+- The large datasets can be stored here: `https://libraries.mit.edu/data-management/store/osf/`
 
 ---
 
